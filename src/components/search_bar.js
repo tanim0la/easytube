@@ -9,7 +9,7 @@ class SearchBar extends Component {
     }
 
     render() {
-        //console.log(this.state.term)
+        
         return (
             <div className='search-bar'>
                 <input 
